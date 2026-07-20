@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate in Computer Science at the Hong Kong University of Science and Technology (HKUST), where I am a member of the [HKUST NLP Group](https://nlp.cs.hku.hk) advised by [Professor Junxian He](https://jxhe.github.io). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng. degree.
+I am a first-year PhD candidate in Computer Science at the Hong Kong University of Science and Technology (HKUST), where I am a member of the HKUST NLP Group advised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng. degree.
 
 My research focuses on natural language processing and machine learning. I am particularly interested in:
 
